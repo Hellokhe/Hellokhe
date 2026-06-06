@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I'm Hellokhe
 
-<!--
-**Hellokhe/Hellokhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Creator of **zenOS**
 
-Here are some ideas to get you started:
+An experimental Unix-like operating system built from the ground up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About zenOS
+
+zenOS is a hobby operating system focused on bringing a complete desktop experience to a custom OS.
+
+### Current Features
+
+- Custom kernel
+- POSIX-inspired userspace
+- X11 graphical desktop
+- TCC toolchain support
+- Ports including Doom and ClassiCube
+- Tens of Thousands of lines of build infrastructure
+
+## Project Stats
+
+```text
+Kernel      ████████████████
+Userspace   ████████████████
+Toolchain   ███████████████░
+Desktop     ████████████████
+Sleep       ░░░░░░░░░░░░░░░░
