@@ -16,4 +16,8 @@ Creator of **zenOS**! It's a hobby Unix-like operating system.
 - Thousands of lines of code
 - And more!
 
+## Languages I know
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&animation=none)
+
 ### zenOS will be released soon...
