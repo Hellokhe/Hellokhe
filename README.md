@@ -17,7 +17,7 @@ Creator of **zenOS**! It's a hobby Unix-like operating system.
 - And more!
 
 ## Languages I know
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=c&fill=00599c&text=false&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=f7df1e&text=false&animation=none)
 
 ![Python](https://img.shields.io/badge/python-3.12%2B-blue)
