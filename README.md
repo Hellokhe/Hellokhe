@@ -12,8 +12,4 @@ Creator of **zenOS**! It's a hobby Unix-like operating system.
 - Thousands of lines of code
 - And more!
 
-## Stats
-
-Sleep: -1/10
-X11: 9/10
-Kernel: 10/10
+## zenOS will be released soon...
