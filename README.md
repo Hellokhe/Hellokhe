@@ -3,7 +3,7 @@
 Creator of **zenOS**! It's a hobby Unix-like operating system.
 
 <p align="left">
-  <img src="image.gif" width="200">
+  <img src="image.gif" width="200" border="2">
 </p>
 
 ## zenOS
