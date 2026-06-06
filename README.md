@@ -16,6 +16,7 @@ zenOS is a hobby operating system focused on bringing a complete desktop experie
 - TCC toolchain support
 - Ports including Doom and ClassiCube
 - Tens of Thousands of lines of build infrastructure
+- And more!
 
 ## Project Stats
 
