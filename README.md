@@ -26,6 +26,6 @@ Creator of **zenOS**! It's a hobby Unix-like operating system.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 
 ### zenOS will be released soon...
