@@ -2,6 +2,10 @@
 
 Creator of **zenOS**! It's a hobby Unix-like operating system.
 
+<p align="center">
+  <img src="demo.gif" width="700">
+</p>
+
 ## zenOS
 
 - Custom kernel
