@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Hellokhe
 
-Creator of **zenOS** — a hobby Unix-like operating system.
+Creator of **zenOS**! It's a hobby Unix-like operating system.
 
 ## zenOS
 
