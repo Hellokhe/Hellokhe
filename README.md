@@ -2,7 +2,7 @@
 
 Creator of **zenOS**! It's a hobby Unix-like operating system.
 
-<p align="center">
+<p align="left">
   <img src="image.gif" width="200">
 </p>
 
