@@ -10,6 +10,7 @@ Creator of **zenOS**! It's a hobby Unix-like operating system.
 - TCC support
 - Ports of Doom and ClassiCube
 - Thousands of lines of code
+- And more!
 
 ## Currently
 
